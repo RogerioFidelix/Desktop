@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NACDado</string>
+    <string name="win_number">0</string>
+    <string name="draw_number">0</string>
+    <string name="defeat_number">0</string>
+    <string name="vitorias">Vitorias</string>
+    <string name="empate">Empate</string>
+    <string name="derrotas">Derrotas</string>
+</resources>

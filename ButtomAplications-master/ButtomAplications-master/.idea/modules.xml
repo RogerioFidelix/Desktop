@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\logonrm\AndroidStudioProjects\ButtomAplications\ButtomAplications.iml" filepath="C:\Users\logonrm\AndroidStudioProjects\ButtomAplications\ButtomAplications.iml" />
+      <module fileurl="file://C:\Users\logonrm\Desktop\ButtomAplications-master\ButtomAplications-master\ButtomAplications.iml" filepath="C:\Users\logonrm\Desktop\ButtomAplications-master\ButtomAplications-master\ButtomAplications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ButtomAplications-master.iml" filepath="$PROJECT_DIR$/ButtomAplications-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\logonrm\AndroidStudioProjects\ButtomAplications\app\app.iml" filepath="C:\Users\logonrm\AndroidStudioProjects\ButtomAplications\app\app.iml" />
+      <module fileurl="file://C:\Users\logonrm\Desktop\ButtomAplications-master\ButtomAplications-master\app\app.iml" filepath="C:\Users\logonrm\Desktop\ButtomAplications-master\ButtomAplications-master\app\app.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\logonrm\AndroidStudioProjects\NumerosAleatorios\NumerosAleatorios.iml" filepath="C:\Users\logonrm\AndroidStudioProjects\NumerosAleatorios\NumerosAleatorios.iml" />
+      <module fileurl="file://C:\Users\logonrm\Desktop\NumerosAleatorios-master\NumerosAleatorios-master\NumerosAleatorios.iml" filepath="C:\Users\logonrm\Desktop\NumerosAleatorios-master\NumerosAleatorios-master\NumerosAleatorios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumerosAleatorios-master.iml" filepath="$PROJECT_DIR$/NumerosAleatorios-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\logonrm\Desktop\NumerosAleatorios-master\NumerosAleatorios-master\app\app.iml" filepath="C:\Users\logonrm\Desktop\NumerosAleatorios-master\NumerosAleatorios-master\app\app.iml" />
+      <module fileurl="file://C:\Users\logonrm\AndroidStudioProjects\NumerosAleatorios\app\app.iml" filepath="C:\Users\logonrm\AndroidStudioProjects\NumerosAleatorios\app\app.iml" />
+    </modules>
+  </component>
+</project>

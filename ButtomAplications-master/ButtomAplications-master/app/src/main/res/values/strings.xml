@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ButtomAplications</string>
+    <string name="child_age">Child Age</string>
+    <string name="gas_calculate">Gas Calculate</string>
+    <string name="scholl_score">Scholl Score</string>
+    <string name="valor_gasolina">Valor Gasolina</string>
+    <string name="valor_lcool">Valor Álcool</string>
+    <string name="calcular">Calcular</string>
+    <string name="child_name">Child Name</string>
+    <string name="child_age1">Child Age</string>
+    <string name="category">Category</string>
+    <string name="nome_do_aluno">Nome do Aluno</string>
+    <string name="nota_1">Nota 1</string>
+    <string name="nota_2">Nota 2</string>
+    <string name="nota_3">Nota 3</string>
+    <string name="c_lculo_de_m_dia">Cálculo de Média</string>
+</resources>

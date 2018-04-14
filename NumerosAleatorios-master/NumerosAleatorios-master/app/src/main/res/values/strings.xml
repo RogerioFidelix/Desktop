@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Números Aleatórios</string>
+    <string name="label_botao">Generate Number</string>
+    <string name="splash_text">Developed by Rogério Fidelix</string>
+</resources>

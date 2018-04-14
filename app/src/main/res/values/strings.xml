@@ -1,0 +1,8 @@
+<resources>
+    <string name="win_number">0</string>
+    <string name="draw_number">0 </string>
+    <string name="defeat_number">0</string>
+    <string name="vitorias">Victory</string>
+    <string name="empate">Draw</string>
+    <string name="derrotas">Defeat</string>
+</resources>

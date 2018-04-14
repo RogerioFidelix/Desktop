@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ConfiguracaoPersonagem</string>
+    <string name="label_titulo">Crie seu Personagem</string>
+    <string name="label_nome">Nome do Personagem</string>
+    <string name="label_sexo">Sexo</string>
+    <string name="label_male">Masculino</string>
+    <string name="label_female">Feminino</string>
+    <string name="label_botoom">Developed by Kratos</string>
+    <string name="label_class">Classe</string>
+    <string name="anao">Anão</string>
+    <string name="elfo">Elfo</string>
+    <string name="mago">Mago</string>
+    <string name="guerreiro">Guerreiro</string>
+    <string name="label_forca">Força</string>
+    <string name="label_proporcao_forca">0</string>
+    <string name="label_criar">Criar</string>
+</resources>
